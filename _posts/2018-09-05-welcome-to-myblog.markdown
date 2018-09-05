@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Brooks!"
 date:   2018-09-05 10:35:03 -0700
 categories: jekyll update
 ---
