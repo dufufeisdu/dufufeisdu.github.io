@@ -25,7 +25,7 @@ twitter_username: dufufeisdu
 github_username:  dufufeisdu
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
 
